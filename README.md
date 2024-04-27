@@ -1,5 +1,5 @@
 ## MUSIC MANTRA
-#Key Features:
+# Key Features:
 
 - Song upload
 - Stripe integration
